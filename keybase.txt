@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yerofeyev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://degaia.co
+  * I am yerofeyev (https://keybase.io/yerofeyev) on keybase.
+  * I have a public key ASA8kxQfcJcfSyIwNzybXNeHHovEnyBbUEV37RvbV5dJCwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010130ce125553952a69a27de14d42718581cc3a85d4ef720d60b612b1eb0dea260f0a",
+      "host": "keybase.io",
+      "kid": "01203c93141f70971f4b2230373c9b5cd7871e8bc49f205b504577ed1bdb5797490b0a",
+      "uid": "d44e33575cca45641f5f4eca2f645d00",
+      "username": "yerofeyev"
+    },
+    "merkle_root": {
+      "ctime": 1616388601,
+      "hash": "b92ff6bc24481cff92f9a3ee6cac697aa42bf2f7281f7250ead922259373b1c78efd729908fa71d994e9bbd51d4f47d8320ce29f83a5b4796d62a79cf468d803",
+      "hash_meta": "e61a503884c61ad76275296c163f4f739665a502e0f16f74d67d1ab744cc5d5b",
+      "seqno": 19435434
+    },
+    "service": {
+      "entropy": "r1CTZ+o2UG0l2P8oN826vgkl",
+      "hostname": "degaia.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1616388670,
+  "expire_in": 504576000,
+  "prev": "9bec47cd939d80358cba4581995094f89cd06955ebcf0452e6ca5e097fb8701b",
+  "seqno": 217,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPJMUH3CXH0siMDc8m1zXhx6LxJ8gW1BFd+0b21eXSQsKp3BheWxvYWTES5cCzNnEIJvsR82TnYA1jLpFgZlQlPic0GlV688EUubKXgl/uHAbxCCiVn3+05iSRoK/cgxXLq7RTQaItZYJdzySOQdFr1t1OQIBwqNzaWfEQIrKYEBSS5FmEYT+ZmRK87xHaIsvgyer4ex8k7M8Ub275XyAt0s0M8ANRgHDcTONzW/I9y1jw1SRQU9oqfGJoQ+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAMj17PH37rRoENol8lurwFYy75yks+wIXwhcEG84vNxaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yerofeyev
+
+==================================================================
